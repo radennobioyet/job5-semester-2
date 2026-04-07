@@ -7,7 +7,7 @@ public class DosenMain19 {
         int pilih;
 
         do {
-            System.out.println("\n=== MENU DATA DOSEN POLINEMA ===");
+            System.out.println("\n==== MENU DATA DOSEN POLINEMA ====");
             System.out.println("1. Tambah Data Dosen");
             System.out.println("2. Tampil Seluruh Data");
             System.out.println("3. Sorting ASC (Usia - Bubble Sort)");
